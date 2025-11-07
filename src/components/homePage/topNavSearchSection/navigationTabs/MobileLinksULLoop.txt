@@ -1,0 +1,107 @@
+
+/*
+
+    <div className={`w-[93%] flex flex-wrap justify-between items-center gap-1 
+            bg-[#fff] rounded-lg border border-[#ddd]
+            ${darkMode ? "dark:bg-[#1f2125] dark:border-[#5d5d5d]" : ""}
+            `}>
+
+            <ul className="flex flex-wrap grow justify-between items-center gap-2 p-2 rounded-lg ">
+
+              <li className={`w-[47%] flex justify-center items-center`}>
+                <Link
+                  title="القرآن الكريم"
+                  to={`/browseQuran`}
+                  className={`w-full text-[#22a5ad] text-center font-bold text-lg p-2 
+                              duration-500 hover:text-[#fff] hover:bg-[#22a5ad]
+                              border border-[#ddd] rounded-md
+                              hover:border-none  whitespace-nowrap
+                              ${darkMode ? "dark:border-[#5d5d5d] dark:text-white dark:hover:bg-[#5d5d5d]" : ""}
+                            `}
+                >
+                  القرآن
+                </Link>
+
+              </li>
+
+              <li className={`w-[47%] flex justify-center items-center`}>
+                <Link
+                  title="صوتيات"
+                  to={`/soundsQuran`}
+                  className={`w-full text-[#22a5ad] text-center font-bold text-lg p-2 
+                              duration-500 hover:text-[#fff] hover:bg-[#22a5ad]
+                              border border-[#ddd] rounded-md
+                              hover:border-none  whitespace-nowrap
+                              ${darkMode ? "dark:border-[#5d5d5d] dark:text-white dark:hover:bg-[#5d5d5d]" : ""}
+                            `}
+                >
+                  صوتيات
+                </Link>
+              </li>
+
+              <li className={`w-[47%] flex justify-center items-center`}>
+                <Link
+                  title="تفسير"
+                  to={`/tafsirQuran`}
+                  className={`w-full text-[#22a5ad] text-center font-bold text-lg p-2 
+                              duration-500 hover:text-[#fff] hover:bg-[#22a5ad]
+                              border border-[#ddd] rounded-md
+                              hover:border-none  whitespace-nowrap
+                              ${darkMode ? "dark:border-[#5d5d5d] dark:text-white dark:hover:bg-[#5d5d5d]" : ""}
+                            `}
+                >
+                  تفسير
+                </Link>
+              </li>
+
+              <li className={`w-[47%] flex justify-center items-center`}>
+                <Link
+                  title="الاذاعه"
+                  to={`/radioFm`}
+                  className={`w-full text-[#22a5ad] text-center font-bold text-lg p-2 
+                              duration-500 hover:text-[#fff] hover:bg-[#22a5ad]
+                              border border-[#ddd] rounded-md
+                              hover:border-none  whitespace-nowrap
+                              ${darkMode ? "dark:border-[#5d5d5d] dark:text-white dark:hover:bg-[#5d5d5d]" : ""}
+                              `}
+                >
+                  الاذاعه
+                </Link>
+              </li>
+
+              <li className={`w-[47%] flex justify-center items-center`}>
+                <Link
+                  title="الأذكار"
+                  to={`/speceficAzkar`}
+                  className={`w-full text-[#22a5ad] text-center font-bold text-lg p-2 
+                              duration-500 hover:text-[#fff] hover:bg-[#22a5ad]
+                              border border-[#ddd] rounded-md
+                              hover:border-none  whitespace-nowrap
+                              ${darkMode ? "dark:border-[#5d5d5d] dark:text-white dark:hover:bg-[#5d5d5d]" : ""}
+                            `}
+                >
+                  الأذكار
+                </Link>
+              </li>
+
+              <li className={`w-[47%] flex justify-center items-center`}>
+                <Link
+                  title=" عداد التسبيح الإلكتروني"
+                  to={`/rosaryOnline`}
+                  className={`w-full text-[#22a5ad] text-center font-bold text-lg p-2 
+                              duration-500 hover:text-[#fff] hover:bg-[#22a5ad]
+                              border border-[#ddd] rounded-md
+                              hover:border-none  whitespace-nowrap
+                              ${darkMode ? "dark:border-[#5d5d5d] dark:text-white dark:hover:bg-[#5d5d5d]" : ""}
+                            `}
+                >
+                  التسبيح الإلكتروني
+                </Link>
+              </li>
+
+            </ul>
+
+          </div>
+
+
+*/

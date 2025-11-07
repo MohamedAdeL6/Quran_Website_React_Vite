@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
+@import "tailwindcss";
+@tailwind utilities;
+
+/* ------------------ Add Fonts  */
+.fontFamily {
+  font-family: "Noto Naskh Arabic", "Amiri", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DS Digital";
+  src: url("../src/assets/ds_digital/DS-DIGI.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.DSDigital {
+  font-family: "DS Digital", sans-serif;
+  font-weight: bold;
+}
+
+/* SetUp  Container */
+@layer components {
+  .container {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  @media (min-width: 640px) {
+    /* sm breakpoint */
+    .container {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+  @media (min-width: 768px) {
+    /* md breakpoint */
+    .container {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+  @media (min-width: 1024px) {
+    /* lg breakpoint */
+    .container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+  @media (min-width: 1280px) {
+    /* xl breakpoint */
+    .container {
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+  }
+  @media (min-width: 1536px) {
+    /* 2xl breakpoint */
+    .container {
+      padding-left: 4rem;
+      padding-right: 4rem;
+    }
+  }
+}
+
+:root {
+  box-sizing: border-box;
+}
+
+/* --------- Progress Of Audio player ---------  */
+/* Custom scrollbar for WebKit browsers */
+::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #666;
+  border: 2px solid #f1f1f1;
+  border-radius: 5px;
+}
+
+/* --------- Progress Of Audio player ---------  */
+/* Custom slider styles */
+input[type="range"].slider {
+  direction: rtl;
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+  height: 0.2rem;
+  background: transparent;
+}
+
+input[type="range"].slider::-webkit-slider-runnable-track {
+  height: 2.5px;
+  background: linear-gradient(
+    to left,
+    #000 var(--progress),
+    #ccc var(--progress)
+  );
+  border-radius: 9999px;
+}
+
+input[type="range"].slider.darkMode::-webkit-slider-runnable-track {
+  background: linear-gradient(
+    to left,
+    #fff var(--progress),
+    #666 var(--progress)
+  );
+}
+
+input[type="range"].slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 12px;
+  width: 12px;
+  background-color: #000;
+  background: #000;
+  border: 1px solid #000;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  z-index: 2;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+
+input[type="range"].slider.darkMode::-webkit-slider-thumb {
+  background-color: #fff;
+  background: #fff;
+  border: 2px solid #fff;
+}
+
+
+
+/* -----------------------------------------------------------------------------  */
+input[type="range"].sliderVolume {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+  height: 0.2rem;
+  background-color: #cccccc;
+}
+
+/*  -------------------------------------------------------------  */
+.Toastify__toast-container {
+  width: 90%;
+  right: 50%;
+  left: 50%;
+  top: 10.5%;
+  transform: translateX(-50%);
+}
+
+@media screen and (min-width: 640px) {
+  .Toastify__toast-container {
+    width: 50%;
+    left: 39%;
+    right: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+@media screen and (min-width: 1270px) {
+  .Toastify__toast-container {
+    width: 30%;
+    left: 41%;
+    transform: translateX(-50%);
+  }
+}
+
+.my-custom-toast .Toastify__close-button {
+  color: #22a5ad;
+  opacity: 100%;
+  font-size: 25px;
+  width: 100%;
+  position: absolute;
+  left: 93%;
+  top: 10%;
+}
+
+.Toastify__toast {
+  width: 100%;
+  right: 0;
+  background: "#5d5d5d";
+  color: "black";
+  border: "1px solid #5d5d5d";
+  border-radius: "10px";
+}
+
+/*  -------------------------------------------------------------  */
+.loading_Section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.spinner_container {
+  position: relative;
+}
+.spinner_container_top {
+  position: relative;
+}
+.spinner.spinner7 {
+  width: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.spinner.spinner14 {
+  width: 200px;
+}
+.spinner.spinner5 {
+  width: 180px;
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

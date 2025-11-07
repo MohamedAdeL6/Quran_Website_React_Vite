@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "خليفة الطنيجي",
+    "image": "https://static.qurancdn.com/images/reciters/11/khalifa-al-tunaiji-profile.jpeg?v=1",
+    "image1": "./RecitersImages/خليفة الطنيجيjpeg.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 2,
+    "name": "عبدالباسط عبدالصمد",
+    "image": "https://static.qurancdn.com/images/reciters/1/abdelbasset-profile.jpeg?v=1",
+    "image1": "./RecitersImages/عبدالباسط عبدالصمد.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 3,
+    "name": "عبدالباسط عبدالصمد",
+    "image": "https://static.qurancdn.com/images/reciters/1/abdelbasset-profile.jpeg?v=1",
+    "image1": "./RecitersImages/عبدالباسط عبدالصمد.jpeg",
+    "style": "Mujawwad"
+  },
+  {
+    "id": 4,
+    "name": "محمد صديق المنشاوي",
+    "image": "https://static.qurancdn.com/images/reciters/7/mohamed-siddiq-el-minshawi-profile.jpeg?v=1",
+    "image1": "./RecitersImages/محمد صديق المنشاوي.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 5,
+    "name": "محمد صديق المنشاوي",
+    "image": "https://static.qurancdn.com/images/reciters/7/mohamed-siddiq-el-minshawi-profile.jpeg?v=1",
+    "image1": "./RecitersImages/محمد صديق المنشاوي.jpeg",
+    "style": "Kids_repeat"
+  },
+  {
+    "id": 6,
+    "name": "سعود الشريم",
+    "image": "https://static.qurancdn.com/images/reciters/8/saoud-shuraim-profile.jpeg?v=1",
+    "image1": "./RecitersImages/سعود الشريم.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 7,
+    "name": "محمود خليل الحصري",
+    "image": "https://static.qurancdn.com/images/reciters/5/mahmoud-khalil-al-hussary-profile.png?v=1",
+    "image1": "./RecitersImages/محمود خليل الحصري.png",
+    "style": "Murattal"
+  },
+  {
+    "id": 8,
+    "name": "عبدالرحمن السديس",
+    "image": "https://static.qurancdn.com/images/reciters/2/abdul-rahman-al-sudais-profile.jpeg?v=1",
+    "image1": "./RecitersImages/عبدالرحمن السديس.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 9,
+    "name": "ابو بكر الشاطرى",
+    "image": "https://static.qurancdn.com/images/reciters/3/abu-bakr-al-shatri-pofile.jpeg?v=1",
+    "image1": "./RecitersImages/ابو بكر الشاطرى.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 10,
+    "name": "هاني الرفاعي",
+    "image": "https://static.qurancdn.com/images/reciters/4/hani-ar-rifai-profile.jpeg?v=1",
+    "image1": "./RecitersImages/هاني الرفاعي.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 11,
+    "name": "مشاري راشد العفاسي",
+    "image": "https://static.qurancdn.com/images/reciters/6/mishary-rashid-alafasy-profile.jpeg?v=1",
+    "image1": "./RecitersImages/مشاري راشد العفاسي.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 12,
+    "name": "محمود علي البنا",
+    "image": "https://i1.sndcdn.com/artworks-000191016296-8gtlzt-t500x500.jpg",
+    "image1": "./RecitersImages/محمود علي البنا.jpg",
+    "style": "Mujawwad"
+  },
+  {
+    "id": 13,
+    "name": "محمد الطبلاوي",
+    "image": "https://i1.sndcdn.com/artworks-WhbwjbLX75nVwQyA-6lYjVg-t500x500.jpg",
+    "image1": "./RecitersImages/1محمد الطبلاوي.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 14,
+    "name": "أحمد الطرابلسي",
+    "image": "https://www.alwatan.com.sa/uploads/images/2019/05/25/319187.jpg",
+    "image1": "./RecitersImages/أحمد الطرابلسي.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 15,
+    "name": "مصطفي إسماعيل",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBpeiLpRNyfYiDcDcOubI0k4MoD0gKvMoMw&s",
+    "image1": "./RecitersImages/مصطفي إسماعيل.jpg",
+    "style": "Mujawwad"
+  },
+  {
+    "id": 16,
+    "name": "ناصر القطامي",
+    "image": "https://i1.sndcdn.com/artworks-000264586841-ay5vvr-t1080x1080.jpg",
+    "image1": "./RecitersImages/ناصر القطامي.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 17,
+    "name": "ياسر الدوسري",
+    "image": "https://i.pinimg.com/564x/28/08/6e/28086e4bac69ea06098568974847d672.jpg",
+    "image1": "./RecitersImages/ياسر الدوسري.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 18,
+    "name": "حسن صالح",
+    "image": "https://i1.sndcdn.com/artworks-000249512985-4xw8gf-t500x500.jpg",
+    "image1": "./RecitersImages/حسن صالح.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 19,
+    "name": "ياسر سلامة",
+    "image": "https://static.suratmp3.com/pics/reciters/thumbs/53_600_600.jpg",
+    "image1": "./RecitersImages/ياسر سلامة.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 20,
+    "name": "محمد جبريل",
+    "image": "https://ar.assabile.com/media/photo/full_size/muhammad-jebril-285.jpg",
+    "image1": "./RecitersImages/محمد جبريل.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 21,
+    "name": "محمد اللحيدان",
+    "image": "https://althkr.com/public/reciter/muhammad-aL-luhaidan.jpg",
+    "image1": "./RecitersImages/محمد اللحيدان.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 22,
+    "name": "محمد الطبلاوي",
+    "image": "https://www.mwatan.news/Upload/libfiles/37/7/204.jpg",
+    "image1": "./RecitersImages/محمد الطبلاوي.jpg",
+    "style": "Murattal" 
+  },
+  {
+    "id": 23,
+    "name": "محمد أيوب",
+    "image": "https://upload.wikimedia.org/wikipedia/ar/6/6f/Muhammad_ayop.jpeg",
+    "image1": "./RecitersImages/محمد أيوب.jpeg",
+    "style": "Murattal"
+  },
+  {
+    "id": 24,
+    "name": "ماهر المعيقلي",
+    "image": "https://api.cms.maqalo.com/uploads/2024/6/max-1718152598975.jpg",
+    "image1": "./RecitersImages/ماهر المعيقلي.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 25,
+    "name": "ماهر المعيقلي",
+    "image": "https://api.cms.maqalo.com/uploads/2024/6/max-1718152598975.jpg",
+    "image1": "./RecitersImages/ماهر المعيقلي.jpg",
+    "style": "Mujawwad"
+  },
+  {
+    "id": 26,
+    "name": "فارس عباد",
+    "image": "https://qimam.sa/wp-content/uploads/%D9%81%D8%A7%D8%B1%D8%B3-%D8%B9%D8%A8%D8%A7%D8%AF.jpg",
+    "image1": "./RecitersImages/فارس-عباد.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 27,
+    "name": "عبدالله كامل",
+    "image": "https://elasimah.com/uploads/images/2023/04/image_750x_644b36c667b00.jpg",
+    "image1": "./RecitersImages/عبدالله كامل.png",
+    "style": "Murattal"
+  },
+  {
+    "id": 28,
+    "name": "عبدالرحمن الشحات",
+    "image": "https://i.ytimg.com/vi/nC0-5R8aY9A/sddefault.jpg",
+    "image1": "./RecitersImages/عبدالرحمن الشحات.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 29,
+    "name": "سعد الغامدي",
+    "image": "https://media.almashhad.com/twitter/1708678977413_LEXJo.webp",
+    "image1": "./RecitersImages/سعد الغامدي.webp",
+    "style": "Murattal"
+  },
+  {
+    "id": 30,
+    "name": "خالد القحطاني",
+    "image": "https://pbs.twimg.com/profile_images/1592118497722630145/D68Ot_ZR_400x400.jpg",
+    "image1": "./RecitersImages/خالد القحطاني.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 31,
+    "name": "خالد الجليل",
+    "image": "https://i.pinimg.com/564x/71/93/7c/71937cbaffdf1bde9dc6978424228771.jpg",
+    "image1": "./RecitersImages/خالد الجليل.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 32,
+    "name": "بدر التركي",
+    "image": "https://i.pinimg.com/564x/8e/b2/74/8eb27400fcd71e0529ceaf6e52de5c3e.jpg",
+    "image1": "./RecitersImages/بدر التركي.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 33,
+    "name": "أحمد العجمي",
+    "image": "https://media.unitedmuslimworld.com/img/24/01/06/13085.jpg",
+    "image1": "./RecitersImages/أحمد العجمي.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 34,
+    "name": "إدريس أبكر",
+    "image": "https://althkr.com/public/reciter/idriss-abkar.jpg",
+    "image1": "./RecitersImages/إدريس أبكر.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 35,
+    "name": "أحمد نعينع",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/DrAhmedNeinaa.jpg",
+    "image1": "./RecitersImages/أحمد نعينع.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 36,
+    "name": "أحمد الحواشي",
+    "image": "https://imgy.pro/almesryoon//466x310/12202211133326820092556.jpg",
+    "image1": "./RecitersImages/أحمد الحواشي.webp",
+    "style": "Murattal"
+  },
+  {
+    "id": 37,
+    "name": "أحمد السويلم",
+    "image": "https://www.sra7h.com/wp-content/uploads/2023/07/%D8%B5%D9%88%D8%B1%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9.png",
+    "image1": "./RecitersImages/أحمد السويلم.png",
+    "style": "Murattal"
+  },
+  {
+    "id": 38,
+    "name": "أحمد صابر",
+    "image": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D8%A8%D8%B1.jpg",
+    "image1": "./RecitersImages/أحمد صابر.jpg",
+    "style": "Murattal"
+  },
+  {
+    "id": 39,
+    "name": "عبدالمحسن الحارثي",
+    "image": "https://ar.assabile.com/media/person/200x256/abdulmohsen-al-harthy.png",
+    "image1": "./RecitersImages/عبدالمحسن الحارثي.png",
+    "style": "Murattal"
+  },
+  {
+    "id": 40,
+    "name": "عبدالمحسن القاسم",
+    "image": "https://manaratalharamain.gov.sa/uploads/users/5ea66ce69eb6a.jpg",
+    "image1": "./RecitersImages/عبدالمحسن القاسم.jpg",
+    "style": "Murattal"
+  }
+]
